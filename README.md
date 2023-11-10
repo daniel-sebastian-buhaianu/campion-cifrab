@@ -1,2 +1,2 @@
-# campion-cifrab
-http://campion.edu.ro/arhiva/index.php?page=problem&action=view&id=1552
+# pbinfo-cifrab
+https://www.pbinfo.ro/probleme/3116/cifrab
